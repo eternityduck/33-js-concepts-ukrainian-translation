@@ -22,7 +22,7 @@
 ## Вступление
 
 Данный репозиторий был создал с целью помочь разработчикам лучше разобраться в концептах JavaScript. Это не требование, а руководство для будущих исследований.
-Он основан на статье, написанной Стивеном Кертисом(https://twitter.com/stephenthecurt), и вы можете прочитать ее [здесь](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
+Он основан на статье, написанной [Стивеном Кертисом](https://twitter.com/stephenthecurt), и вы можете прочитать ее [здесь](https://medium.com/@stephenthecurt/33-fundamentals-every-javascript-developer-should-know-13dd720a90d1).
 
 
 ## Сообщество
@@ -41,7 +41,7 @@
 
 ## Содержание
 
-1. **[Стек вызовов](#1-call-stack)**  <small>// Call Stack</small>
+1. **[Стек вызовов](#1-call-stack)**  `// Call Stack`
 2. **[Primitive Types](#2-primitive-types)**
 3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
 4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
