@@ -41,10 +41,10 @@
 
 ## Содержание
 
-1. **[Стек вызовов](#1-call-stack)**  `// Call Stack`
-2. **[Primitive Types](#2-primitive-types)**
-3. **[Value Types and Reference Types](#3-value-types-and-reference-types)**
-4. **[Implicit, Explicit, Nominal, Structuring and Duck Typing](#4-implicit-explicit-nominal-structuring-and-duck-typing)**
+1. **[Стек вызовов](#1-стек-вызовов)**  - Call Stack
+2. **[Примитивные Типы](#2-примитивные-типы)** - Primitive Types
+3. **[Типы Значений и Ссылочные Типы](#3-типы-значений-и-ссылочные-типы)** - Value Types and Reference Types
+4. **[Неявная, Явная, Номинальная, Структура Данных и Утиная типизация](#4-implicit-explicit-nominal-structuring-and-duck-typing)** - Implicit, Explicit, Nominal, Structuring and Duck Typing
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
 7. **[Expression vs Statement](#7-expression-vs-statement)**
@@ -63,17 +63,17 @@
 20. **[Pure Functions, Side Effects and State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
 21. **[Closures](#21-closures)**
 22. **[High Order Functions](#22-high-order-functions)**
-23. **[Recursion](#23-recursion)**
+23. **[Рекурсия](#23-рекурсия)** - Recursion
 24. **[Collections and Generators](#24-collections-and-generators)**
-25. **[Promises](#25-promises)**
+25. **[Промиссы](#25-промиссы)** - Promises
 26. **[async/await](#26-asyncawait)**
-27. **[Data Structures](#27-data-structures)**
-28. **[Expensive Operation and Big O Notation](#28-expensive-operation-and-big-o-notation)**
-29. **[Algorithms](#29-algorithms)**
+27. **[Структура Данных](#27-структура-данных)** - Data Structures
+28. **[Временная Сложность Алгоритма и "О" Большое](#28-временнная-сложность-алгоритма-и-"о"-большое)** - Expensive Operation and Big O Notation
+29. **[Алгоритмы](#29-алгоритмы)** - Algorithms
 30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
-31. **[Design Patterns](#31-design-patterns)**
+31. **[Шаблоны Проектирования](#31-шаблоны-проектирования)** - Design Patterns
 32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
-33. **[Clean Code](#33-clean-code)**
+33. **[Чистый код](#33-чистый-код)** - Clean Code
 
 
 ---
@@ -106,7 +106,7 @@
 
 ---
 
-## 2. Primitive Types
+## 2. Примитивные типы
 
 ### Статьи
 
@@ -131,7 +131,7 @@
 
 ---
 
-## 3. Value Types and Reference Types
+## 3. Типы Значение и Ссылочные типы
 
 ### Статьи
 
@@ -648,7 +648,7 @@
 
 ---
 
-## 23. Recursion
+## 23. Рекурсия
 
 ### Статьи
 
@@ -710,7 +710,7 @@
 
 ---
 
-## 25. Promises
+## 25. Промиссы
 
 ### Статьи
 
@@ -773,7 +773,7 @@
 
 ---
 
-## 27. Data Structures
+## 27. Структура Данных
 
 ### Статьи
 
@@ -797,7 +797,7 @@
 
 ---
 
-## 28. Expensive Operation and Big O Notation
+## 28. Временная Сложность Алгоритма и "О" Большое
 
 ### Статьи
 
@@ -818,7 +818,7 @@
 
 ---
 
-## 29. Algorithms
+## 29. Алгоритмы
 
 ### Статьи
 
@@ -920,7 +920,7 @@
 
 ---
 
-## 33. Clean Code
+## 33. Чистый Код
 
 ### Статьи
 
