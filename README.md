@@ -1,9 +1,7 @@
 ﻿<h1 align="center">
 <br>
-  <a href="https://github.com/gumennii/33-js-concepts"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 концепта каждый Javascript разработчик должен знать" width=200"></a>
-  <br>
-    <br>
-    33 Концепта Каждый Javascript Разработчик Должен Знать
+  <a href="https://github.com/gumennii/33-js-concepts"><img src="https://i.imgur.com/dsHmk6H.jpg" alt="33 концепта каждый JavaScript разработчик должен знать" width=200"></a>
+  <br>33 Концепта<br>Каждый JavaScript Разработчик Должен Знать
   <br><br>
 </h1>
 
@@ -41,28 +39,28 @@
 
 ## Содержание
 
-1. **[Стек вызовов](#1-стек-вызовов)**  - Call Stack
+1. **[Стек вызовов](#1-стек-вызовов)** - Call Stack
 2. **[Примитивные Типы](#2-примитивные-типы)** - Primitive Types
 3. **[Типы Значений и Ссылочные Типы](#3-типы-значений-и-ссылочные-типы)** - Value Types and Reference Types
-4. **[Неявная, Явная, Номинальная, Структура Данных и Утиная типизация](#4-implicit-explicit-nominal-structuring-and-duck-typing)** - Implicit, Explicit, Nominal, Structuring and Duck Typing
+4. **[Неявное, Явное, Номинальное, Структурирование и Утиная Типизация](#4-неявное-явное-номинальное-структурирование-и-утиная-типизация)** - Implicit, Explicit, Nominal, Structuring and Duck Typing
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Function Scope, Block Scope and Lexical Scope](#6-function-scope-block-scope-and-lexical-scope)**
 7. **[Expression vs Statement](#7-expression-vs-statement)**
 8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
 9. **[Message Queue and Event Loop](#9-message-queue-and-event-loop)**
-10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
+10. **[setTimeout, setInterval и requestAnimationFrame](#10-settimeout-setinterval-и-requestanimationframe)**
 11. **[JavaScript Engines](#11-javascript-engines)**
 12. **[Bitwise Operators, Type Arrays and Array Buffers](#12-bitwise-operators-type-arrays-and-array-buffers)**
 13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
 14. **[Factories and Classes](#14-factories-and-classes)**
-15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
-16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
+15. **[this, call, apply и bind](#15-this-call-apply-и-bind)**
+16. **[new, Constructor, instanceof и Instances](#16-new-constructor-instanceof-и-instances)**
 17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
 18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
 20. **[Pure Functions, Side Effects and State Mutation](#20-pure-functions-side-effects-and-state-mutation)**
-21. **[Closures](#21-closures)**
-22. **[High Order Functions](#22-high-order-functions)**
+21. **[Замыкания](#21-замыкания)** - Closures
+22. **[Функции Высшего Порядка](#22-функции-высшего-порядка)** - High Order Functions
 23. **[Рекурсия](#23-рекурсия)** - Recursion
 24. **[Collections and Generators](#24-collections-and-generators)**
 25. **[Промиссы](#25-промиссы)** - Promises
@@ -70,7 +68,7 @@
 27. **[Структура Данных](#27-структура-данных)** - Data Structures
 28. **[Временная Сложность Алгоритма и "О" Большое](#28-временнная-сложность-алгоритма-и-"о"-большое)** - Expensive Operation and Big O Notation
 29. **[Алгоритмы](#29-алгоритмы)** - Algorithms
-30. **[Inheritance, Polymorphism and Code Reuse](#30-inheritance-polymorphism-and-code-reuse)**
+30. **[Наследование, Полиморфизм и Повторное Использование Кода](#30-насследование-полифирмизм-и-повторное-использование-кода)** - Inheritance, Polymorphism and Code Reuse
 31. **[Шаблоны Проектирования](#31-шаблоны-проектирования)** - Design Patterns
 32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
 33. **[Чистый код](#33-чистый-код)** - Clean Code
@@ -131,7 +129,7 @@
 
 ---
 
-## 3. Типы Значение и Ссылочные типы
+## 3. Типы Значений и Ссылочные Типы
 
 ### Статьи
 
@@ -153,7 +151,7 @@
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. Неявное, Явное, Номинальное, Структурирование и Утиная Типизация
 
 ### Статьи
 
@@ -299,7 +297,7 @@
 
 ---
 
-## 10. setTimeout, setInterval and requestAnimationFrame
+## 10. setTimeout, setInterval и requestAnimationFrame
 
 ### Статьи
 
@@ -406,7 +404,7 @@
 
 ---
 
-## 15. this, call, apply and bind
+## 15. this, call, apply и bind
 
 ### Статьи
 
@@ -440,7 +438,7 @@
 
 ---
 
-## 16. new, Constructor, instanceof and Instances
+## 16. new, Constructor, instanceof и Instances
 
 ### Статьи
 
@@ -591,7 +589,7 @@
 
 ---
 
-## 21. Closures
+## 21. Замыкания
 
 ### Статьи
 
@@ -620,7 +618,7 @@
 
 ---
 
-## 22. High Order Functions
+## 22. Функции Высшего Порядка
 
 ### Статьи
 
@@ -835,7 +833,7 @@
 
 ---
 
-## 30. Inheritance, Polymorphism and Code Reuse
+## 30. Наследование, Полиморфизм и Повторное использование кода
 
 ### Статьи
 
