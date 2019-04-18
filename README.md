@@ -34,7 +34,16 @@
 - [Корейский](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
 - [Испанский](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
 - [Русский](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-
+- [Турецкий](https://github.com/ilker0/33-js-concepts) - İlker Demir
+- [Вьетнамский](https://github.com/nguyentranchung/33-js-concepts) - Nguyễn Trần Chung
+- [Польский](https://github.com/lip3k/33-js-concepts) - Dawid Lipinski
+- [Персидский](https://github.com/majidalavizadeh/33-js-concepts) - Majid Alavizadeh
+- [Индонезийский](https://github.com/rijdz/33-js-concepts) - Rijdzuan Sampoerna
+- [Французский](https://github.com/robinmetral/33-concepts-js) - Robin Métral
+- [Хинди](https://github.com/vikaschauhan/33-js-concepts) - Vikas Chauhan
+- [Греческий](https://github.com/DimitrisZx/33-js-concepts) - Dimitris Zarachanis
+- [Японский](https://github.com/oimo23/33-js-concepts) - oimo23
+- [Немецкий](https://github.com/burhannn/33-js-concepts) - burhannn
 ---
 
 ## Содержание
