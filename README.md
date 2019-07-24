@@ -58,7 +58,7 @@
 12. **[Побітові оператори, типи та буфери масивів](#12-побітові-оператори-типи-та-буфери-масивів)** - Bitwise Operators, Type Arrays and Array Buffers
 13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
 14. **[Фабрики і класи](#14-фабрики-і-класи)** - Factories and Classes
-15. **[this, call, apply and bind](#15-this-call-apply-і-bind)**
+15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
 16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
 17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-та-prototype-chain)**
 18. **[Object.create and Object.assign](#18-objectcreate-і-objectassign)**
