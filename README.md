@@ -45,16 +45,16 @@
 ## Зміст
 
 1. **[Стек викликів](#1-стек-викликів)** - Call Stack
-2. **[Примітивні типи](#2-primitive-types)** - Primitive Types
-3. **[Типи-значення і посилальні типи](#3-value-types-and-reference-types)** - Value Types and Reference Types
-4. **[Неявне, явне, номінальне, структурування та качина типізація](#4-implicit-explicit-nominal-structuring-and-duck-typing)** - Implicit, Explicit, Nominal, Structuring and Duck Typing
+2. **[Примітивні типи](#2-примітивні-типи)** - Primitive Types
+3. **[Типи-значення і посилальні типи](#3-типи-значення-і-посилальні-типи)** - Value Types and Reference Types
+4. **[Неявне, явне, номінальне, структурування та качина типізація](#4-неявне-явне-номінальне-структурування-та-качина-типізація)** - Implicit, Explicit, Nominal, Structuring and Duck Typing
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Області видимості](#6-function-scope-block-scope-and-lexical-scope)** - Function Scope, Block Scope and Lexical Scope
 7. **[Expression vs Statement](#7-expression-vs-statement)**
 8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
 9. **[Черга повідомлень і цикл подій](#9-message-queue-and-event-loop)** - Message Queue and Event Loop
 10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
-11. **[Рушії JavaScript](#11-javascript-engines)** - JavaScript Engines
+11. **[Рушії JavaScript](#11-рушії-javascript)** - JavaScript Engines
 12. **[Побітові оператори, типи та буфери масивів](#12-bitwise-operators-type-arrays-and-array-buffers)** - Bitwise Operators, Type Arrays and Array Buffers
 13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
 14. **[Фабрики і класи](#14-factories-and-classes)** - Factories and Classes
@@ -209,7 +209,7 @@
 
 ---
 
-## 6. Function Scope, Block Scope and Lexical Scope
+## 6. Області видимості
 ### Англійською: Function Scope, Block Scope and Lexical Scope
 
 ### Статті
@@ -289,7 +289,7 @@
 
 ---
 
-## 9. Message Queue and Event Loop
+## 9. Черга повідомлень і цикл подій
 ### Англійською: Message Queue and Event Loop
 
 ### Статті
@@ -365,7 +365,7 @@
 
 ---
 
-## 12. Bitwise Operators, Type Arrays and Array Buffers
+## 12. Побітові оператори, типи та буфери масивів
 ### Англійською: Bitwise Operators, Type Arrays and Array Buffers
 
 ### Статті
@@ -408,7 +408,7 @@
 
 ---
 
-## 14. Factories and Classes
+## 14. Фабрики і класи
 ### Англійською: Factories and Classes
 
 ### Статті
@@ -607,7 +607,7 @@
 
 ---
 
-## 20. Pure Functions, Side Effects and State Mutation
+## 20. Чисті функції, побічні ефекти і мутація стану
 ### Англійською: Pure Functions, Side Effects and State Mutation
 
 ### Статті
@@ -681,7 +681,7 @@
 
 ---
 
-## 22. High Order Functions
+## 22. Функції вищого порядку
 ### Англійською: High Order Functions
 
 ### Статті
@@ -709,7 +709,7 @@
 
 ---
 
-## 23. Recursion
+## 23. Рекурсія
 ### Англійською: Recursion
 
 ### Статті
@@ -740,7 +740,7 @@
 
 ---
 
-## 24. Collections and Generators
+## 24. Колекції та генератори
 ### Англійською: Collections and Generators
 
 ### Статті
@@ -777,7 +777,7 @@
 
 ---
 
-## 25. Promises
+## 25. Проміси/Обіцянки
 ### Англійською: Promises
 
 ### Статті
@@ -849,7 +849,7 @@
 
 ---
 
-## 27. Data Structures
+## 27. Структури даних
 ### Англійською: Data Structures
 
 ### Статті
@@ -875,7 +875,7 @@
 
 ---
 
-## 28. Expensive Operation and Big O Notation
+## 28. Часова складність алгоритму і нотація великого О
 ### Англійською: Expensive Operation and Big O Notation
 
 ### Статті
@@ -915,7 +915,7 @@
 
 ---
 
-## 30. Inheritance, Polymorphism and Code Reuse
+## 30. Успадкування, поліморфізм і повторне використання коду
 ### Англійською: Inheritance, Polymorphism and Code Reuse
 
 ### Статті
@@ -939,7 +939,7 @@
 
 ---
 
-## 31. Design Patterns
+## 31. Шаблони проектування
 ### Англійською: Design Patterns
 
 ### Статті
