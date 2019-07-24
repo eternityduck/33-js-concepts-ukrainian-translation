@@ -22,23 +22,23 @@
 
 Список доступних на даний момент перекладів наведено нижче:
 
-- [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [English](https://github.com/leonardomso/33-js-concepts) - Leonardo Maldonado
-- [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [German](https://github.com/burhannn/33-js-concepts) — burhannn
-- [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
-- [Japanese](https://github.com/oimo23/33-js-concepts) — oimo23
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
+- [Англійська (English)](https://github.com/leonardomso/33-js-concepts) - Leonardo Maldonado
+- [Бразильська португальська (Portuguese-BR)](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
+- [В'єтнамська (Tiếng Việt)](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
+- [Грецька (Greek)](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [Індонезійська (Indonesian)](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Іспанська (Spanish)](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
+- [Китайська (Chinese)](https://github.com/stephentian/33-js-concepts) — Re Tian
+- [Корейська (Korean)](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
+- [Німецька (German)](https://github.com/burhannn/33-js-concepts) — burhannn
+- [Перська (Persian)](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
+- [Польська (Polish)](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
+- [Російська (Russian)](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
+- [Турецька (Turkish)](https://github.com/ilker0/33-js-concepts) — İlker Demir
+- [Українська (Ukrainian)](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
+- [Французька (French)](https://github.com/robinmetral/33-concepts-js) — Robin Métral
+- [Хінді (Hindi)](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
+- [Японська (Japanese)](https://github.com/oimo23/33-js-concepts) — oimo23
 
 ---
 
