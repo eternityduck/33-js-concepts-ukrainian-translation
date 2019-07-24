@@ -60,8 +60,8 @@
 14. **[Фабрики і класи](#14-фабрики-і-класи)** - Factories and Classes
 15. **[this, call, apply and bind](#15-this-call-apply-and-bind)**
 16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
-17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-та-prototype-chain)**
-18. **[Object.create and Object.assign](#18-objectcreate-і-objectassign)**
+17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-and-prototype-chain)**
+18. **[Object.create and Object.assign](#18-objectcreate-and-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
 20. **[Чисті функції, побічні ефекти і мутація стану](#20-чисті-функції-побічні-ефекти-і-мутація-стану)** - Pure Functions, Side Effects and State Mutation
 21. **[Замикання](#21-замикання)** - Closures
