@@ -23,6 +23,7 @@
 Список доступних на даний момент перекладів наведено нижче:
 
 - [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
+- [English](https://github.com/leonardomso/33-js-concepts) - Leonardo Maldonado
 - [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
 - [German](https://github.com/burhannn/33-js-concepts) — burhannn
 - [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
