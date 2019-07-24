@@ -51,17 +51,17 @@
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
 6. **[Області видимості](#6-function-scope-block-scope-and-lexical-scope)** - Function Scope, Block Scope and Lexical Scope
 7. **[Expression vs Statement](#7-expression-vs-statement)**
-8. **[IIFE, Modules i Namespaces](#8-iife-modules-and-namespaces)**
+8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
 9. **[Черга повідомлень і цикл подій](#9-message-queue-and-event-loop)** - Message Queue and Event Loop
-10. **[setTimeout, setInterval і requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
+10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
 11. **[Рушії JavaScript](#11-javascript-engines)** - JavaScript Engines
 12. **[Побітові оператори, типи та буфери масивів](#12-bitwise-operators-type-arrays-and-array-buffers)** - Bitwise Operators, Type Arrays and Array Buffers
-13. **[DOM і Layout Trees](#13-dom-and-layout-trees)**
+13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
 14. **[Фабрики і класи](#14-factories-and-classes)** - Factories and Classes
-15. **[this, call, apply і bind](#15-this-call-apply-і-bind)**
+15. **[this, call, apply and bind](#15-this-call-apply-і-bind)**
 16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
-17. **[Prototype Inheritance та Prototype Chain](#17-prototype-inheritance-та-prototype-chain)**
-18. **[Object.create і Object.assign](#18-objectcreate-і-objectassign)**
+17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-та-prototype-chain)**
+18. **[Object.create and Object.assign](#18-objectcreate-і-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
 20. **[Чисті функції, побічні ефекти і мутація стану](#20-pure-functions-side-effects-and-state-mutation)** - Pure Functions, Side Effects and State Mutation
 21. **[Замикання](#21-closures)** - Closures
@@ -82,6 +82,7 @@
 ---
 
 ## 1. Стек викликів
+### Англійською: Call Stack
 
 ### Статті
 
@@ -110,7 +111,8 @@
 
 ---
 
-## 2. Primitive Types
+## 2. Примітивні типи
+### Англійською: Primitive Types
 
 ### Статті
 
@@ -137,7 +139,8 @@
 
 ---
 
-## 3. Value Types and Reference Types
+## 3. Типи-значення і посилальні типи
+### Англійською: Value Types and Reference Types
 
 ### Статті
 
@@ -160,7 +163,8 @@
 
 ---
 
-## 4. Implicit, Explicit, Nominal, Structuring and Duck Typing
+## 4. Неявне, явне, номінальне, структурування та качина типізація
+### Англійською: Implicit, Explicit, Nominal, Structuring and Duck Typing
 
 ### Статті
 
@@ -206,6 +210,7 @@
 ---
 
 ## 6. Function Scope, Block Scope and Lexical Scope
+### Англійською: Function Scope, Block Scope and Lexical Scope
 
 ### Статті
 
@@ -285,6 +290,7 @@
 ---
 
 ## 9. Message Queue and Event Loop
+### Англійською: Message Queue and Event Loop
 
 ### Статті
 
@@ -335,7 +341,8 @@
 
 ---
 
-## 11. JavaScript Engines
+## 11. Рушії JavaScript
+### Англійською: JavaScript Engines
 
 ### Статті
 
@@ -359,6 +366,7 @@
 ---
 
 ## 12. Bitwise Operators, Type Arrays and Array Buffers
+### Англійською: Bitwise Operators, Type Arrays and Array Buffers
 
 ### Статті
 
@@ -401,6 +409,7 @@
 ---
 
 ## 14. Factories and Classes
+### Англійською: Factories and Classes
 
 ### Статті
 
@@ -599,6 +608,7 @@
 ---
 
 ## 20. Pure Functions, Side Effects and State Mutation
+### Англійською: Pure Functions, Side Effects and State Mutation
 
 ### Статті
 
@@ -633,7 +643,8 @@
 
 ---
 
-## 21. Closures
+## 21. Замикання
+### Англійською: Closures
 
 ### Статті
 
@@ -671,6 +682,7 @@
 ---
 
 ## 22. High Order Functions
+### Англійською: High Order Functions
 
 ### Статті
 
@@ -698,6 +710,7 @@
 ---
 
 ## 23. Recursion
+### Англійською: Recursion
 
 ### Статті
 
@@ -728,6 +741,7 @@
 ---
 
 ## 24. Collections and Generators
+### Англійською: Collections and Generators
 
 ### Статті
 
@@ -764,6 +778,7 @@
 ---
 
 ## 25. Promises
+### Англійською: Promises
 
 ### Статті
 
@@ -835,6 +850,7 @@
 ---
 
 ## 27. Data Structures
+### Англійською: Data Structures
 
 ### Статті
 
@@ -860,6 +876,7 @@
 ---
 
 ## 28. Expensive Operation and Big O Notation
+### Англійською: Expensive Operation and Big O Notation
 
 ### Статті
 
@@ -880,7 +897,8 @@
 
 ---
 
-## 29. Algorithms
+## 29. Алгоритми
+### Англійською: Algorithms
 
 ### Статті
 
@@ -898,6 +916,7 @@
 ---
 
 ## 30. Inheritance, Polymorphism and Code Reuse
+### Англійською: Inheritance, Polymorphism and Code Reuse
 
 ### Статті
 
@@ -921,6 +940,7 @@
 ---
 
 ## 31. Design Patterns
+### Англійською: Design Patterns
 
 ### Статті
 
@@ -993,7 +1013,8 @@
 
 ---
 
-## 33. Clean Code
+## 33. Чистий код
+### Англійською: Clean Code
 
 ### Статті
 
