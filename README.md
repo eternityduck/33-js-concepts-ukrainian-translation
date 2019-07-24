@@ -44,6 +44,7 @@
 - [Греческий](https://github.com/DimitrisZx/33-js-concepts) - Dimitris Zarachanis
 - [Японский](https://github.com/oimo23/33-js-concepts) - oimo23
 - [Немецкий](https://github.com/burhannn/33-js-concepts) - burhannn
+- [Украинский](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
 ---
 
 ## Содержание
