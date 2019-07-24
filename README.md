@@ -49,34 +49,34 @@
 3. **[Типи-значення і посилальні типи](#3-типи-значення-і-посилальні-типи)** - Value Types and Reference Types
 4. **[Неявне, явне, номінальне, структурування та качина типізація](#4-неявне-явне-номінальне-структурування-та-качина-типізація)** - Implicit, Explicit, Nominal, Structuring and Duck Typing
 5. **[== vs === vs typeof](#5--vs--vs-typeof)**
-6. **[Області видимості](#6-function-scope-block-scope-and-lexical-scope)** - Function Scope, Block Scope and Lexical Scope
+6. **[Області видимості](#6-області-видимості)** - Function Scope, Block Scope and Lexical Scope
 7. **[Expression vs Statement](#7-expression-vs-statement)**
 8. **[IIFE, Modules and Namespaces](#8-iife-modules-and-namespaces)**
-9. **[Черга повідомлень і цикл подій](#9-message-queue-and-event-loop)** - Message Queue and Event Loop
+9. **[Черга повідомлень і цикл подій](#9-черга-повідомлень-і-цикл-подій)** - Message Queue and Event Loop
 10. **[setTimeout, setInterval and requestAnimationFrame](#10-settimeout-setinterval-and-requestanimationframe)**
 11. **[Рушії JavaScript](#11-рушії-javascript)** - JavaScript Engines
-12. **[Побітові оператори, типи та буфери масивів](#12-bitwise-operators-type-arrays-and-array-buffers)** - Bitwise Operators, Type Arrays and Array Buffers
+12. **[Побітові оператори, типи та буфери масивів](#12-побітові-оператори-типи-та-буфери-масивів)** - Bitwise Operators, Type Arrays and Array Buffers
 13. **[DOM and Layout Trees](#13-dom-and-layout-trees)**
-14. **[Фабрики і класи](#14-factories-and-classes)** - Factories and Classes
+14. **[Фабрики і класи](#14-фабрики-і-класи)** - Factories and Classes
 15. **[this, call, apply and bind](#15-this-call-apply-і-bind)**
 16. **[new, Constructor, instanceof and Instances](#16-new-constructor-instanceof-and-instances)**
 17. **[Prototype Inheritance and Prototype Chain](#17-prototype-inheritance-та-prototype-chain)**
 18. **[Object.create and Object.assign](#18-objectcreate-і-objectassign)**
 19. **[map, reduce, filter](#19-map-reduce-filter)**
-20. **[Чисті функції, побічні ефекти і мутація стану](#20-pure-functions-side-effects-and-state-mutation)** - Pure Functions, Side Effects and State Mutation
-21. **[Замикання](#21-closures)** - Closures
-22. **[Функції вищого порядку](#22-high-order-functions)** - High Order Functions
-23. **[Рекурсія](#23-recursion)** - Recursion
-24. **[Колекції та генератори](#24-collections-and-generators)** - Collections and Generators
-25. **[Проміси/Обіцянки](#25-promises)** - Promises
+20. **[Чисті функції, побічні ефекти і мутація стану](#20-чисті-функції-побічні-ефекти-і-мутація-стану)** - Pure Functions, Side Effects and State Mutation
+21. **[Замикання](#21-замикання)** - Closures
+22. **[Функції вищого порядку](#22-функції-вищого-порядку)** - High Order Functions
+23. **[Рекурсія](#23-рекурсія)** - Recursion
+24. **[Колекції та генератори](#24-колекції-та-генератори)** - Collections and Generators
+25. **[Проміси/Обіцянки](#25-промісиобіцянки)** - Promises
 26. **[async/await](#26-asyncawait)**
-27. **[Структури даних](#27-data-structures)** - Data Structures
-28. **[Часова складність алгоритму і нотація великого О](#28-expensive-operation-and-big-o-notation)** - Expensive Operation and Big O Notation
-29. **[Алгоритми](#29-algorithms)** - Algorithms
-30. **[Успадкування, поліморфізм і повторне використання коду](#30-inheritance-polymorphism-and-code-reuse)** - Inheritance, Polymorphism and Code Reuse
-31. **[Шаблони проектування](#31-design-patterns)** - Design Patterns
+27. **[Структури даних](#27-структури-даних)** - Data Structures
+28. **[Часова складність алгоритму і нотація великого О](#28-часова-складність-алгоритму-і-нотація-великого-о)** - Expensive Operation and Big O Notation
+29. **[Алгоритми](#29-алгоритми)** - Algorithms
+30. **[Успадкування, поліморфізм і повторне використання коду](#30-успадкування-поліморфізм-і-повторне-використання-коду)** - Inheritance, Polymorphism and Code Reuse
+31. **[Шаблони проектування](#31-шаблони-проектування)** - Design Patterns
 32. **[Partial Applications, Currying, Compose and Pipe](#32-partial-applications-currying-compose-and-pipe)**
-33. **[Чистий код](#33-clean-code)** - Clean Code
+33. **[Чистий код](#33-чистий-код)** - Clean Code
 
 
 ---
