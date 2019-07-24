@@ -8,6 +8,7 @@
 </h1>
 
 [![Follow me](https://img.shields.io/twitter/follow/leonardomso.svg?style=for-the-badge)](https://twitter.com/leonardomso)
+[![Follow me](https://img.shields.io/twitter/follow/AndrewSavetchuk.svg?style=for-the-badge)](https://twitter.com/AndrewSavetchuk)
 
 ## Вступ
 
