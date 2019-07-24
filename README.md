@@ -22,22 +22,21 @@
 Список доступних на даний момент перекладів наведено нижче:
 
 - [Chinese](https://github.com/stephentian/33-js-concepts) — Re Tian
-- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
-- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
-- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
-- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
-- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts) — Andrew Savetchuk
-- [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
-- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
-- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
-- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
 - [French](https://github.com/robinmetral/33-concepts-js) — Robin Métral
-- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
-- [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
-- [Japanese](https://github.com/oimo23/33-js-concepts) — oimo23
 - [German](https://github.com/burhannn/33-js-concepts) — burhannn
-
+- [Greek](https://github.com/DimitrisZx/33-js-concepts) — Dimitris Zarachanis
+- [Hindi](https://github.com/vikaschauhan/33-js-concepts) — Vikas Chauhan
+- [Indonesian](https://github.com/rijdz/33-js-concepts) — Rijdzuan Sampoerna
+- [Japanese](https://github.com/oimo23/33-js-concepts) — oimo23
+- [Korean](https://github.com/yjs03057/33-js-concepts.git) — Suin Lee
+- [Persian](https://github.com/majidalavizadeh/33-js-concepts) — Majid Alavizadeh
+- [Polish](https://github.com/lip3k/33-js-concepts) — Dawid Lipinski
+- [Portuguese-BR](https://github.com/tiagoboeing/33-js-concepts) — Tiago Boeing
+- [Russian](https://github.com/gumennii/33-js-concepts) — Mihail Gumennii
+- [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
+- [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
+- [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
+- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts) — Andrew Savetchuk
 
 ---
 
