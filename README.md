@@ -37,7 +37,7 @@
 - [Spanish](https://github.com/adonismendozaperez/33-js-conceptos) — Adonis Mendoza
 - [Tiếng Việt](https://github.com/nguyentranchung/33-js-concepts) — Nguyễn Trần Chung
 - [Turkish](https://github.com/ilker0/33-js-concepts) — İlker Demir
-- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts) — Andrew Savetchuk
+- [Ukrainian](https://github.com/AndrewSavetchuk/33-js-concepts-ukrainian-translation) — Andrew Savetchuk
 
 ---
 
